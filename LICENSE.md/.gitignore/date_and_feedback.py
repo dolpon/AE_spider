@@ -245,3 +245,19 @@ if __name__ == "__main__":
          "shipping_price","cag", "url"])
 
     start_spider()
+#send_data = {"ownerMemberId":"",
+                 "memberType":"seller",
+                 "productId":"",
+                 "evaStarFilterValue":"all+Stars",
+                 "evaSortValue":"sortdefault@feedback",
+                 "page":1,
+                 "currentPage":2,
+                 "i18n":"true",
+                 "withPictures":"false",
+                 "withPersonalInfo":"false",
+                 "withAdditionalFeedback":"false",
+                 "onlyFromMyCountry":"false",
+                 "version":"0.0.0",
+                 "translate":"+Y+",
+                 "jumpToTop":"true"
+                 }
